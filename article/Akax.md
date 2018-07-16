@@ -18,6 +18,7 @@
 > 工具栈
 
 - 编辑器：主要 `VS Code` ，辅助`Atom`，`Sublime`，`Webstorm`
+- 系统：日常工作`Win10`，个人`Mac`，其他`Fedora`，`Centos`
 - 调试工具：主要`Chrome Dev Tool`，辅助插件`Postman`，`Jsonhandle`等
 
 > 技术栈
